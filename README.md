@@ -6,12 +6,18 @@ I'm a passionate **Data Enthusiast** who loves uncovering stories from messy dat
 
 ## 🔧 Tech Stack & Tools
 
-* 📈 **SQL (MySQL)** – Advanced joins, window functions, CTEs [<img src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" width="40"/>](https://www.mysql.com/products/workbench/)
-(https://www.mysql.com/products/workbench/)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" width="40"/>](https://www.mysql.com/products/workbench/)
+<!-- Power BI -->
+[<img src="https://cdn.iconscout.com/icon/free/png-256/power-bi-3521553-2945217.png" width="40"/>](https://powerbi.microsoft.com/)
 
-* 📊 **Power BI** – Dashboards, reports, interactive visuals
-* 📄 **Excel** – Data wrangling, pivot tables, formulas
-* 🎨 **Canva** – Visual report design and presentation
+<!-- Microsoft Excel -->
+[<img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-32-722715.png" width="40"/>](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+<!-- Canva -->
+[<img src="https://cdn.iconscout.com/icon/free/png-256/canva-1869027-1583149.png" width="40"/>](https://www.canva.com/)
+
+
+
   
 ---
 
