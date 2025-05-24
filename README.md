@@ -10,7 +10,7 @@ I'm a passionate **Data Enthusiast** who loves uncovering stories from messy dat
 * 📊 **Power BI** – Dashboards, reports, interactive visuals
 * 📄 **Excel** – Data wrangling, pivot tables, formulas
 * 🎨 **Canva** – Visual report design and presentation
-
+c cplusplus css3 html5 java javascript mongodb mysql nodejs pandas python react
 ---
 
 ## 🚀 What I'm Working On
