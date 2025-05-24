@@ -6,11 +6,12 @@ I'm a passionate **Data Enthusiast** who loves uncovering stories from messy dat
 
 ## 🔧 Tech Stack & Tools
 
-* 📈 **SQL (MySQL)** – Advanced joins, window functions, CTEs
+* 📈 **SQL (MySQL)** – Advanced joins, window functions, CTEs [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
+
 * 📊 **Power BI** – Dashboards, reports, interactive visuals
 * 📄 **Excel** – Data wrangling, pivot tables, formulas
 * 🎨 **Canva** – Visual report design and presentation
-c cplusplus css3 html5 java javascript mongodb mysql nodejs pandas python react
+  
 ---
 
 ## 🚀 What I'm Working On
