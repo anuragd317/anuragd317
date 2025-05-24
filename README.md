@@ -6,7 +6,8 @@ I'm a passionate **Data Enthusiast** who loves uncovering stories from messy dat
 
 ## 🔧 Tech Stack & Tools
 
-* 📈 **SQL (MySQL)** – Advanced joins, window functions, CTEs [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
+* 📈 **SQL (MySQL)** – Advanced joins, window functions, CTEs [<img src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" width="40"/>](https://www.mysql.com/products/workbench/)
+(https://www.mysql.com/products/workbench/)
 
 * 📊 **Power BI** – Dashboards, reports, interactive visuals
 * 📄 **Excel** – Data wrangling, pivot tables, formulas
