@@ -7,6 +7,7 @@ I'm a passionate **Data Enthusiast** who loves uncovering stories from messy dat
 ## 🔧 Tech Stack & Tools
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" width="40"/>](https://www.mysql.com/products/workbench/)
+
 <!-- Power BI -->
 [<img src="https://cdn.iconscout.com/icon/free/png-256/power-bi-3521553-2945217.png" width="40"/>](https://powerbi.microsoft.com/)
 
