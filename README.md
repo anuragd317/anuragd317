@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, Welcome, I'm Anurag Das!
 
-<!--
-**anuragd317/anuragd317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Data Enthusiast** who loves uncovering stories from messy data and transforming them into **strategic insights** that support **business growth**. I'm equally driven by a strong curiosity for **understanding business needs** and aligning data solutions that deliver real impact. I  continuously learning and growing in my career through hands-on experience and meaningful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Tools
+
+* 📈 **SQL (MySQL)** – Advanced joins, window functions, CTEs
+* 📊 **Power BI** – Dashboards, reports, interactive visuals
+* 📄 **Excel** – Data wrangling, pivot tables, formulas
+* 🎨 **Canva** – Visual report design and presentation
+
+---
+
+## 🚀 What I'm Working On
+
+* Crafting data analysis projects based on real-world business cases
+* Improving my data storytelling and visualization skills
+* Bridging data with business understanding to drive decision-making
+
+---
+
+## 💬 Let's Connect
+
+* [LinkedIn](https://www.linkedin.com/in/anuragdas3/) 
+* Always open to collaborations, feedback, and exciting opportunities to learn!
+
+---
+
+*Thanks for stopping by my profile! Feel free to keep visitng from time to time because every time you visit you will find something new *
+
+> *"Data is the new oil, but insight is the spark that fuels innovation."*
